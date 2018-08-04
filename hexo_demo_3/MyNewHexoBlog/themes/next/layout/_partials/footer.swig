@@ -37,11 +37,13 @@
   #}<a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">{#
     #}NexT.{{ theme.scheme }}{#
   #}</a>{% if theme.footer.theme.version %} v{{ theme.version }}{% endif %}{#
-#}</div>
+#}</div> &mdash; <script src="https://s19.cnzz.com/z_stat.php?id=1274184926&web_id=1274184926" language="JavaScript"></script>
+
 {% endif %}
 
 {% if theme.footer.custom_text %}
   <div class="footer-custom">{#
   #}{{ theme.footer.custom_text }}{#
 #}</div>
+
 {% endif %}
